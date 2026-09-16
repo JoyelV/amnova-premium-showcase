@@ -67,7 +67,7 @@ function Index() {
       <main id="top">
         <section className="mx-auto max-w-7xl px-5 pb-8 pt-10 sm:px-8 sm:pt-16">
           <p className="mb-4 text-[11px] font-medium uppercase text-muted-foreground">Lookbook — Autumn Edit</p>
-          <h1 className="animate-rise font-display text-[21vw] uppercase leading-[0.82] text-balance sm:text-[15vw] lg:text-[12rem]">The<br />Shape of<br /><span className="text-accent">Softness</span></h1>
+          <h1 className="animate-rise font-display text-[19vw] uppercase leading-[0.82] text-balance sm:text-[15vw] lg:text-[12rem]">The<br />Shape of<br /><span className="text-accent">Softness</span></h1>
           <div className="mt-8 flex animate-fade flex-col gap-6 sm:mt-10 sm:flex-row sm:items-end sm:justify-between [animation-delay:200ms]">
             <p className="max-w-[38ch] text-sm text-muted-foreground sm:text-base">A quiet collection of everyday objects, made slowly and built to be kept. Every piece resolves from the merchant catalog.</p>
             <a href="#shop" className="inline-flex items-center justify-center rounded-full bg-accent px-7 py-4 text-sm font-semibold text-accent-foreground transition-colors hover:bg-accent-secondary hover:text-accent-secondary-foreground">Shop the collection <span aria-hidden="true">→</span></a>
